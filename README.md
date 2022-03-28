@@ -1,16 +1,41 @@
-### Hi there 👋
+Hi 🐾
 
-<!--
-**Shura-dv/Shura-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former Video Producer, jump into the world of programming since 2019.
 
-Here are some ideas to get you started:
+In love since then for programming, dedicated full time, to studying and coding,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+with the goal to always adcquire more knowledge, to be a greater programmer someday.
+
+
+
+
+
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shura-dv&show_icons=true&theme=tokyonight"/>
+  
+  
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shura-dv&layout=compact&theme=synthwave"/>
+</div>
+  
+ ❤️ Let's reach out!
+  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4hch7Hnefd)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-figueiredo-34461a232/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shuuradv)
+
+  
+  🔨 Programming languages i'm studying and practicing right now:
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+  
+  
+ 📚 Programming languages i'm good with:
+ 
+ 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

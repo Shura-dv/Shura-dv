@@ -4,7 +4,7 @@ Former Video Producer, jump into the world of programming since 2019.
 
 In love since then for programming, dedicated full time, to studying and coding,
 
-with the goal to always adcquire more knowledge, to be a greater programmer someday.
+with the goal to always adcquire more knowledge, to be a great programmer someday.
 
 
 

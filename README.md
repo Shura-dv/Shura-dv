@@ -1,10 +1,10 @@
 Hi 🐾
 
-Former Video Producer, jump into the world of programming since 2019.
+As a former video producer, I ventured into the world of programming in 2022.
 
-In love since then for programming, dedicated full time, to studying and coding,
+Since then, my passion for coding has grown immensely. I have dedicated myself full-time to studying and coding,
 
-with the goal to always adcquire more knowledge, to be a great programmer someday.
+driven by the goal of continually acquiring knowledge and becoming an accomplished programmer in the near future.
 
 
 
